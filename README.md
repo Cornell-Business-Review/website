@@ -45,8 +45,8 @@ To keep in sync with this remote repository:
 ## Authors
 
 * [**Rishik Zaparde**](https://github.com/rishikzap)
-* [**Helen Wang**](https://github.com/wanghel)
-* [**Nicole Hu**](https://github.com/nsh64)
+* [**Kartikay Jain**](https://github.com/kj295)
+* [**Jae Kim**](https://github.com/jaekim123)
 
 
 
