@@ -45,7 +45,6 @@ To keep in sync with this remote repository:
 ## Authors
 
 * [**Rishik Zaparde**](https://github.com/rishikzap)
-* [**Kartikay Jain**](https://github.com/kj295)
 * [**Jae Kim**](https://github.com/jaekim123)
 
 
