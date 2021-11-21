@@ -92,6 +92,7 @@ select:-webkit-autofill {
     <!-- Custom styles for this template -->
     <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(). '/css.css' ?>">
     <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(). '/blog.css' ?>"><style class="darkreader darkreader--sync" media="screen"></style>
+    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(). '/style.css' ?>">
   <meta name="darkreader" content="8067a70346f0d228be05283f61ed6e1f"><style class="darkreader darkreader--override" media="screen">.vimvixen-hint {
     background-color: #956d04 !important;
     border-color: #f1c92c !important;
